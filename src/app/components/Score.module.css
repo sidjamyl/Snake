@@ -1,0 +1,16 @@
+.Score_Grille
+{
+    width: 150px;
+    height: 50px;
+    border: solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color :white;
+}
+
+.Score_Grille p 
+{
+    margin: 0;
+}
